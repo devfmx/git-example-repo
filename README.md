@@ -3,3 +3,6 @@ Este es el típico archivo README que encuentras en casi cualquier proyecto. Si 
 
 # Autor
 Soy el autor
+
+# Agradecimientos
+Les agradezco a todos por estar aquí
