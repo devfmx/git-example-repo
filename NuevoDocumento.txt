@@ -1,3 +1,2 @@
-Este es un documento nuevo
-Esta también es una segunda línea pero diferente
+Aquí escribimos una nueva línea
 Esta también es al tercera línea pero diferente
