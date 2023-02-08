@@ -1,1 +1,2 @@
 Este es un documento nuevo
+Esta también es una segunda línea pero diferente
